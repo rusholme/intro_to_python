@@ -1,9 +1,8 @@
-Materials for IPAC "Introduction to Python" tutorial 2015-03-12
+Materials for IPAC "Introduction to Python" tutorial 2016-04-07
 
-To open the ipython notebook, in this directory type:
-ipython notebook --notebook-dir=$PWD
+To open type: `jupyter notebook`
 
 which should open a browser tab "Home", then click on:
-2015-03-12_intro_to_python.ipynb
+`intro_to_python.ipynb`
 
 I have tested the notebook in both Python v2 & v3.
