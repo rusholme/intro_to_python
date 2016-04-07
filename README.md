@@ -8,4 +8,9 @@ which should open a browser tab, then click on:
 
     intro_to_python.ipynb
 
-I have tested the notebook in both Python v2 & v3.
+Tested at one point on both Python v2 & v3...
+
+Presentation: Google Chrome allows full screen without address bar, need to rescale font to 75% to fit on KS 410 projectors
+
+    open -a Google\ Chrome http://localhost:8888
+
