@@ -2,4 +2,3 @@
 M56,      289.147941100,   30.184500500
 ic4710,   277.158208330,   -66.982277780
 ngc4552,  188.915863750,   12.556341390
-# Appending comment to file# Appending comment to file# Appending comment to file# Appending comment to file# Appending comment to file# Appending comment to file
